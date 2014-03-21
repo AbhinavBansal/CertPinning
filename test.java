@@ -1,4 +1,4 @@
-
+//CertPinning for Android
 import java.security.MessageDigest;
 import java.security.cert.CertificateException;
 import java.security.cert.X509Certificate;
